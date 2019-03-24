@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FransizcaSozluk</string>
+    <string name="numbers">SAYILAR</string>
+    <string name="family">AILE UYELERI</string>
+    <string name="colors">RENKLER</string>
+    <string name="phrases">KALIP CUMLELER</string>
+
+</resources>
